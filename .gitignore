@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 data/cropinion/*
 vectors/*
+=======
+>>>>>>> 63f7c3766db36a97df57539fa2795e9e5dc246f3
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -193,5 +196,9 @@ cython_debug/
 #  exclude from AI features like autocomplete and code analysis. Recommended for sensitive data
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
+<<<<<<< HEAD
 .cursorindexingignore
 
+=======
+.cursorindexingignore
+>>>>>>> 63f7c3766db36a97df57539fa2795e9e5dc246f3

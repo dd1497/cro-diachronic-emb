@@ -72,6 +72,6 @@ if __name__ == "__main__":
     # Save the t-SNE embeddings for each wave
     for idx, tsne_embedding in waves_tsne.items():
         np.save(
-            f"/home/ddukic/retriever-diachronic-emb/data/processed/tsne_embeddings_wave_{idx + 1}.npy",
+            f"../5ysplits_models/tsne_embeddings_wave_{idx + 1}.npy",
             tsne_embedding,
         )
